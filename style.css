@@ -264,6 +264,22 @@ input {
   i {
     margin-top: auto;
     margin-bottom: auto;
+    padding-bottom: 20px;
   }
-  
-   
+  #fa-lock {
+    padding-bottom: 30px;
+  }
+  #Useruname {
+    padding-top: 10px;
+  }
+  #login {
+    padding-top: 90px;
+p
+    padding: bottom 10px;;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    border: none;
+    outline: none;
+    border-radius: 45px;
+    
+  }
